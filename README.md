@@ -1,24 +1,8 @@
-# vuetify-landing-page
+# Vuetify Landing Page
 
-## Project setup
-```
-npm install
-```
+### Link: https://vuetify-landing-page.netlify.app/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### Uma Landing Page que desenvolvida com Vue 2, utilizando a biblioteca Vuetify para os componentes da interface. Este projeto foi desenvolvido para colocar em prática meus estudos pessoais de VueJs.
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
